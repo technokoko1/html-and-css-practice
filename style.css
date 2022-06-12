@@ -1,0 +1,58 @@
+#youtube{
+    background-color: #cc0000;
+    color: aliceblue;
+    border: none;
+    height: 36px;
+    width: 105px;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition:  opacity 0.15s;
+}
+
+#youtube:hover{
+    opacity: 0.5;
+}
+
+#youtube:active{
+   opacity: 0.3;
+}
+
+
+
+.join{
+    background-color: white;
+    color: cornflowerblue;
+    border-style: solid;
+    border-color: cadetblue;
+    border-width: 1.3px;
+    height: 36px;
+    width: 62px;
+    border-radius: 3px;
+    margin-right: 8px;
+    cursor: pointer;
+    transition:  background-color 0.15s;
+    transition: color 0.15s;
+   
+}
+
+.join:hover{
+color: white;
+background-color: cornflowerblue;
+}
+
+.join:active{
+    opacity: 0.7;
+}
+
+#twiter{
+    font-weight: 600;
+    background-color: #1b90ee;
+    color: aliceblue;
+    border: none;
+    height: 36px;
+    width: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+
+}
